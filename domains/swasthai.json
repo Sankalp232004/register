@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "Sankalp232004",
-        "email": "swasthai.founder@gmail.com"
-    },
-    "record": {
-        "CNAME": "receptual-concussant-tisha.ngrok-free.dev"
-    }
+  "owner": {
+    "username": "Sankalp232004",
+    "email": "swasthai.founder@gmail.com"
+  },
+  "records": {
+    "CNAME": "receptual-concussant-tisha.ngrok-free.dev"
+  }
 }
